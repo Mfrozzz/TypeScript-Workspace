@@ -1,0 +1,10 @@
+enum Protein{
+    VINA = "VINA",
+    HAMBURGER = "HAMBURGER",
+    SALSICHA = "SALSICHA",
+    HAMBURGER_VEGANO = "HAMBURGER_VEGANO",
+    SALSICHA_VEGANA = "SALSICHA_VEGANA",
+    FRANGO = "FRANGO"
+}
+
+export default Protein;
